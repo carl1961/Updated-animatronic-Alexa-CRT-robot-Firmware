@@ -12,3 +12,4 @@ Updating the obsolete, not available, Person Sensor by Useful Sensors SKU: SEN-2
 # Work in Progress............
 
 
+<img width="1500" height="1247" alt="image" src="https://github.com/user-attachments/assets/9d8631c5-2581-40d3-8046-0eac71f5ec9a" />

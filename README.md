@@ -10,7 +10,7 @@ Updating the obsolete, not available, Person Sensor by Useful Sensors SKU: SEN-2
 <img width="406" height="423" alt="image" src="https://github.com/user-attachments/assets/fdab700f-ec23-44e2-a4c6-927a8ffa11cd" />
 
 # Work in Progress............
-
+[Gemini Help]     (https://share.gemini.google/TIoFTt22maVr)
 
 <img width="1500" height="1247" alt="image" src="https://github.com/user-attachments/assets/9d8631c5-2581-40d3-8046-0eac71f5ec9a" />
 
